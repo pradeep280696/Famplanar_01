@@ -1,0 +1,3 @@
+url = https://famplanr.stage02.obdemo.com/
+browserName = firefox
+waitTime = 10
