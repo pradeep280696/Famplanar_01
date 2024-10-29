@@ -68,6 +68,6 @@ public class BaseClass{
       public void closeApplication(){
     	  
     	  driver.quit();
-      }
+    	  System.out.println();      }
 
 }
